@@ -1,6 +1,9 @@
 # Song Auto-tagger from Spotify Features
 This repository contains the datasets employed in the work "Auto-tagger of contextual activity tags for music tracks"
 
+[![DOI](https://zenodo.org/badge/487377936.svg)](https://zenodo.org/badge/latestdoi/487377936)
+
+
 The two datasets are based on the work of Ibrahim et al:
 
 Dataset (15 Contexts): https://ieeexplore.ieee.org/document/9054352
